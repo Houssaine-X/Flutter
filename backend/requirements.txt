@@ -1,0 +1,23 @@
+# RAG Chatbot Backend Requirements
+PyPDF2==3.0.1
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-huggingface>=0.0.1
+langchain-community>=0.0.20
+langchain-ollama>=0.1.0
+sentence-transformers>=2.3.0
+faiss-cpu>=1.9.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
+tensorflow>=2.15.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Stock Prediction Requirements
+keras>=3.0.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+matplotlib>=3.7.0
